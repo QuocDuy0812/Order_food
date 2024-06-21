@@ -5,6 +5,7 @@ import 'package:project_order_food/firebase_options.dart';
 import 'package:project_order_food/locator.dart';
 import 'package:project_order_food/ui/config/theme_style.dart';
 import 'package:project_order_food/ui/router.dart';
+import 'package:project_order_food/ui/router.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
